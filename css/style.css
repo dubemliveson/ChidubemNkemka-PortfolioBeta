@@ -195,7 +195,7 @@ header {
 .hero {
     padding: 9rem 0 5rem;
     background-color: var(--secondary-color);
-    height: 100vh;
+    /* height: 100vh; */
 }
 
 .hero-content {
