@@ -3,7 +3,7 @@
 A responsive, single-page portfolio website showcasing my projects, skills, and contact information. 
 Built with modern web technologies, this site provides an attractive way for visitors to learn about and connect with me.
 
-
+<br>
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ Built with modern web technologies, this site provides an attractive way for vis
 
 7. Contact
 
-
+<br>
 
 ## Features
 
@@ -35,7 +35,7 @@ Built with modern web technologies, this site provides an attractive way for vis
 
 - **Contact Form:** Easy-to-use form for visitors to send messages directly (front-end only).
 
-
+<br>
 
 ## Technologies
 
@@ -47,7 +47,7 @@ Built with modern web technologies, this site provides an attractive way for vis
 
 - GitHub Actions for CI/CD (linting, formatting) configured in `.github/workflows/`.
 
-
+<br>
 
 ## Installation
 
@@ -67,6 +67,8 @@ Built with modern web technologies, this site provides an attractive way for vis
 
 You can simply open `index.html` in your browser
 
+<br>
+
 
 ## Usage
 
@@ -77,6 +79,8 @@ You can simply open `index.html` in your browser
 - View the **Projects** section to see examples of my work.
 
 - Use the **Contact** form to send me a message (form is front-end only; configure your own backend or email service to process submissions).
+
+<br>
 
 ## Deployment
 
@@ -94,6 +98,7 @@ Drag and drop the project folder into the Netlify dashboard or connect your GitH
 
 Import the project from GitHub and follow prompts.
 
+<br>
 
 ## Contributing
 
@@ -101,16 +106,17 @@ Contributions are welcome! To contribute:
 
 1. Fork the repository.
 
-2. Create a new branch: git checkout -b feature/my-new-feature.
+2. Create a new branch: `git checkout -b feature/my-new-feature`.
 
-3. Commit your changes: git commit -m 'Add some feature'.
+3. Commit your changes: `git commit -m 'Add some feature'`.
 
-4. Push to the branch: git push origin feature/my-new-feature.
+4. Push to the branch: `git push origin feature/my-new-feature`.
 
 5. Open a pull request.
 
 Please follow the existing code style and ensure that new features are responsive.
 
+<br>
 
 ## Contact
 
