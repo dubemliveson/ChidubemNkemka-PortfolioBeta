@@ -1,4 +1,4 @@
-## Chidubem Nkemka Portfolio Beta
+## Chidubem Nkemka's Portfolio (Beta)
 
 A responsive, single-page portfolio website showcasing my projects, skills, and contact information. 
 Built with modern web technologies, this site provides an attractive way for visitors to learn about and connect with me.
