@@ -86,15 +86,15 @@ You can simply open `index.html` in your browser
 
 The site is a static HTML/CSS/JS project. You can deploy it on any static hosting platform such as GitHub Pages, Netlify, or Vercel.
 
-- GitHub Pages:
+1. GitHub Pages:
 
 In your repository’s settings, enable GitHub Pages from the main branch.
 
-- Netlify:
+2. Netlify:
 
 Drag and drop the project folder into the Netlify dashboard or connect your GitHub repo.
 
-- Vercel:
+3. Vercel:
 
 Import the project from GitHub and follow prompts.
 
@@ -124,6 +124,6 @@ Please follow the existing code style and ensure that new features are responsiv
 
 📩 **Email:** [dubemnkemka@gmail.com](dubemnkemka@gmail.com)
 
-🖥 **Portfolio:** [ChidubemNkemka Portfolio](https://dubemliveson.github.io/ChidubemNkemka-PortfolioBeta/)
+🖥 **Portfolio:** [Chidubem Nkemka's Portfolio](https://dubemliveson.github.io/ChidubemNkemka-PortfolioBeta/)
 
 Feel free to reach out with any questions or feedback!
