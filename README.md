@@ -3,7 +3,7 @@
 A responsive, single-page portfolio website showcasing my projects, skills, and contact information. 
 Built with modern web technologies, this site provides an attractive way for visitors to learn about and connect with me.
 
----
+
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ Built with modern web technologies, this site provides an attractive way for vis
 
 7. Contact
 
----
+
 
 ## Features
 
@@ -35,7 +35,7 @@ Built with modern web technologies, this site provides an attractive way for vis
 
 - **Contact Form:** Easy-to-use form for visitors to send messages directly (front-end only).
 
----
+
 
 ## Technologies
 
@@ -47,7 +47,7 @@ Built with modern web technologies, this site provides an attractive way for vis
 
 - GitHub Actions for CI/CD (linting, formatting) configured in `.github/workflows/`.
 
----
+
 
 ## Installation
 
@@ -82,15 +82,42 @@ You can simply open `index.html` in your browser
 
 The site is a static HTML/CSS/JS project. You can deploy it on any static hosting platform such as GitHub Pages, Netlify, or Vercel.
 
-GitHub Pages:
+- GitHub Pages:
 
 In your repository’s settings, enable GitHub Pages from the main branch.
 
-Netlify:
+- Netlify:
 
 Drag and drop the project folder into the Netlify dashboard or connect your GitHub repo.
 
-Vercel:
+- Vercel:
 
 Import the project from GitHub and follow prompts.
 
+
+## Contributing
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+
+2. Create a new branch: git checkout -b feature/my-new-feature.
+
+3. Commit your changes: git commit -m 'Add some feature'.
+
+4. Push to the branch: git push origin feature/my-new-feature.
+
+5. Open a pull request.
+
+Please follow the existing code style and ensure that new features are responsive.
+
+
+## Contact
+
+**Chidubem Nkemka**
+
+📩 **Email:** [dubemnkemka@gmail.com](dubemnkemka@gmail.com)
+
+🖥 **Portfolio:** [ChidubemNkemka Portfolio](https://dubemliveson.github.io/ChidubemNkemka-PortfolioBeta/)
+
+Feel free to reach out with any questions or feedback!
