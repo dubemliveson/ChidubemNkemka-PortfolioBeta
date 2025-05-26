@@ -122,7 +122,7 @@ Please follow the existing code style and ensure that new features are responsiv
 
 **Chidubem Nkemka**
 
-📩 **Email:** [dubemnkemka@gmail.com](dubemnkemka@gmail.com)
+📩 **Email:** dubemnkemka@gmail.com
 
 🖥 **Portfolio:** [Chidubem Nkemka's Portfolio](https://dubemliveson.github.io/ChidubemNkemka-PortfolioBeta/)
 
